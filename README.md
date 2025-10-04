@@ -14,6 +14,7 @@ A proof-of-concept system that automatically generates social media creatives fr
 ```bash
 # Clone the repo to your local machine
 git clone https://github.com/paraslaul76788/FDE-Home-Assignment.git
+```
 
 ### 2. Install Dependencies
 
