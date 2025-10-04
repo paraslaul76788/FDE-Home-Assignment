@@ -28,9 +28,11 @@ pip install -r requirements.txt
 
 ### 3. Environment Configuration
 
-```bash
-echo "HUGGINGFACE_API_KEY=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" > .env
-```
+- Create a .env file under FDE-Home-Assignment
+- Paste this in the .env file
+  ```bash
+  HUGGINGFACE_API_KEY="YOUR_API_KEY"
+  ```
 
 ### 4. Run the Pipeline
 
