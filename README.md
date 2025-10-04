@@ -21,7 +21,7 @@ cd FDE-Home-Assignment
 
 ### 2. Install Dependencies
 
-# Install required Python packages using pip
+Install required Python packages using pip
 ```bash
 pip install -r requirements.txt
 ```
