@@ -1,0 +1,28 @@
+{
+  "campaign_name": "Summer Collection Launch",
+  "products": [
+    {
+      "id": "product1",
+      "name": "Organic Face Cream",
+      "description": "Hydrating organic face cream with SPF 30",
+      "category": "Skincare",
+      "target_demographic": "Women 25-45"
+    },
+    {
+      "id": "product2", 
+      "name": "Vitamin C Serum",
+      "description": "Brightening serum with natural vitamin C",
+      "category": "Skincare",
+      "target_demographic": "Women 20-40"
+    }
+  ],
+  "target_region": "North America",
+  "target_audience": "Health-conscious women interested in natural skincare",
+  "campaign_message": "Discover your natural glow this summer! Get 20% off our bestselling skincare products.",
+  "brand_guidelines": {
+    "primary_color": "#4ECDC4",
+    "secondary_color": "#FF6B6B",
+    "font_family": "Arial",
+    "logo_required": false
+  }
+}
