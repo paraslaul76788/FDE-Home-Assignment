@@ -15,10 +15,6 @@ A proof-of-concept system that automatically generates social media creatives fr
 # Clone the repo to your local machine
 git clone https://github.com/paraslaul76788/FDE-Home-Assignment.git
 
-# Navigate to the project directory
-cd FDE-Home-Assignment
-```
-
 ### 2. Install Dependencies
 
 Install required Python packages using pip
